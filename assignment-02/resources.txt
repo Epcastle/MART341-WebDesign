@@ -1,1 +1,3 @@
-
+A directory is an address system used to find organize and keep track of files. Files are stored in files
+VCS is useful becuase it allows you to track changes in your repo and files, allows for rollbacks and version history if needed, and allows for easy collaboration between other developers.
+My favorite artistic medium is the piano. It's the medium that comes most naturally for me to express myself.
