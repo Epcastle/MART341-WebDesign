@@ -1,0 +1,3 @@
+1. The relationship between Ip address and dns is that the ip address is the actual adress in the form of a set of numbers, and dns is a human named website attached to that ip address.
+2. A cookie is information and user data saved by your web browser that can be shared to websites. This can allow websites to see and find repeat visitors and use that information to provide potential benefits to the user.
+3. The three essential parts of a URL are the protocol, the domain, and the path.
