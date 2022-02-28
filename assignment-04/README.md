@@ -3,4 +3,4 @@ Browsers get inputed a website address through the user interface, which then ac
 I currently use google chrome for browsing the web.
 
 
-[!ImageFile](./images/Assignment04_Image.PNG)
+![ImageFile](./images/Assignment04_Image.PNG)
