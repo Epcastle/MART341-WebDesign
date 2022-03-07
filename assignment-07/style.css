@@ -1,0 +1,42 @@
+/* Main html*/
+html {
+  height: 100%;
+}
+body {
+  min-height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
+
+/*background*/
+.background {
+  background-color: #006699;
+}
+
+
+.text {
+  color: white;
+  text-align: center;
+}
+
+.header {
+  color: white;
+  font-family: Segoe Script;
+  text-align: center;
+}
+
+.form {
+  text-align: center;
+}
+
+.fillerDiv {
+  height: 200px;
+  width: 200px;
+}
+
+.align {
+  text-align: center;
+}

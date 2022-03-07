@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <link rel="stylesheet" href="style.css">
+    <!-- character set I'm using -->
+    <meta charset="utf-8">
+    <!-- author information for the page -->
+    <meta name="author" content="Ethan Pilskalns">
+    <!-- description of my page -->
+    <meta name="description" content="website for my business">
+    <!-- Other meta elements -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ethan's business</title>
+  </head>
+  <body class="background">
+       <h1 class="header">Ethan's business</h1>
+       <form method="POST" class="form" action="index.html">
+         <p class ="text">To sign up for the services of Ethan's business, please enter your name</p>
+         <input type="text" class="name" placeholder="Enter your name" autofocus>
+         <br>
+         <br>
+         <p class="text">Want to see a picture of a cute dog?
+         Yes!! <input type="radio" name="doggo" id="doggo" value="Y">
+         no :( <input type="radio" name="doggo" id="doggo" value="N">
+         </p>
+         <p class="text">if yes, press enter</p>
+         <button type="button" class="enterButton" onclick="window.location.href = 'doggo.html';"> Enter </button>
+
+       </form>
+  </body>
+  </html>
